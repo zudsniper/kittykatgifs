@@ -7,7 +7,7 @@ _A Simple Python 3 Discord Bot_
 
 <div align="center">
 
-![A rainbow cat on a stripper pole or something silly](/cat_gif.gif)
+![A rainbow cat on a stripper pole or something silly](https://media1.giphy.com/media/qWA4I6lElI9nkjll3F/giphy.gif?cid=b0cc04f4jc6r1oxekdfnpuzihk4n97zngbesxq2jajxh7uv6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 </div>
 
