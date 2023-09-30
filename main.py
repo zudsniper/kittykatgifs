@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import os
 from loguru import logger
 
-VERSION = "1.1.0"
+VERSION = "1.1.1"
 
 # Load environment variables from .env file
 load_dotenv()
