@@ -97,4 +97,4 @@ Inspired by various Discord bot projects and cat lovers everywhere.
 
 Feel free to contribute to this project. For any issues, please open an issue or submit a pull request.
 
-[![Discord](https://img.shields.io/discord/your_discord_server_id?label=discord)](https://discord.gg/your_discord_invite_link)
+[![Discord](https://img.shields.io/discord/974855479975100487?label=discord)](https://zod.tf/discord)
