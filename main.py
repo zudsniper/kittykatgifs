@@ -32,7 +32,7 @@ async def on_ready():
 async def prrr(ctx, words: str):
     try:
         # Defer the interaction to prevent timeout
-        await ctx.defer()
+        await ctx.response.defer()
         # Check if the user has permission (replace "Admin" with the role you want to check)
         if "no cats" not in [role.name for role in ctx.author.roles]:
             logger.debug("User has permission to execute the command.")
