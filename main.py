@@ -22,7 +22,7 @@ logger.remove(0)
 logger.add(stdout, colorize=True, format="<green>{time:HH:mm:ss}</green> | <level>{level}</level> | <cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{line}</cyan> - <level>{message}</level>", level="DEBUG")
 
 # Initialize bot
-bot = commands.Bot(command_prefix="/")
+bot = commands.InteractionBot(command_prefix="/")
 
 @bot.event
 async def on_ready():
